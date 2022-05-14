@@ -1,1 +1,1 @@
-# TextFinder
+C++ project which takes in a text file which contains some questions in it, then looks for another text file which is a long text that contains given questions answer in it. Finds the answers of those questions using string matching algorithm then displays the answers.
